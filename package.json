@@ -1,0 +1,14 @@
+{
+  "name": "fb4aktuelles",
+  "version": "1.0.0",
+  "description": "Aktuelle Meldungen der FH Dortmund als Discord Webhook",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jannik Schmöle",
+  "license": "MIT",
+  "dependencies": {
+    "fast-xml-parser": "^3.20.3"
+  }
+}
